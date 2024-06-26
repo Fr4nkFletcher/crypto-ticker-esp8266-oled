@@ -39,3 +39,7 @@ This project displays cryptocurrency prices on this [module](https://a.co/d/024y
 3. Install the required libraries via the Library Manager.
 4. Update the `SSID` and `password` variables with your WiFi credentials.
 5. Upload the code to your ESP8266.
+
+<p align="center">
+  <img src="https://github.com/Fr4nkFletcher/crypto-ticker-esp8266-oled/blob/main/images/ticker.gif" alt="Demo 1">
+</p>
