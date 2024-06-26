@@ -1,6 +1,6 @@
 # ESP8266 OLED Crypto Ticker
 
-This project displays cryptocurrency prices on an OLED screen using an ESP8266 microcontroller. The display shows current prices for BTC, ETH, and DOGE, along with 24-hour percentage changes.
+This project displays cryptocurrency prices on this [module](https://a.co/d/024ynaRp). The display shows current prices for BTC, ETH, and DOGE, along with 24-hour percentage changes.
 
 ## Features
 
