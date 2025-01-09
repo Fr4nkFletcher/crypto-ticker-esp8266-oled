@@ -2,6 +2,10 @@
 
 This project displays cryptocurrency prices on this [module](https://a.co/d/024ynaRp). The display shows current prices for BTC, ETH, and DOGE, along with 24-hour percentage changes.
 
+<p align="center">
+  <img src="https://github.com/Fr4nkFletcher/crypto-ticker-esp8266-oled/blob/main/images/ticker.gif" alt="Demo 1">
+</p>
+
 ## Features
 
 - Displays current prices for BTC, ETH, and DOGE.
@@ -40,7 +44,3 @@ Build yourself with these materials:
 4. Install the required libraries via the Library Manager.
 5. Update the `SSID` and `password` variables with your WiFi credentials.
 6. Upload the code to your ESP8266.
-
-<p align="center">
-  <img src="https://github.com/Fr4nkFletcher/crypto-ticker-esp8266-oled/blob/main/images/ticker.gif" alt="Demo 1">
-</p>
